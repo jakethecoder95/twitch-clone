@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "Stream edited baybay",
+      "description": "this is edited woop",
+      "id": 3
+    },
+    {
+      "title": "Deleting worked :)",
+      "description": "Now I had to add another thing here so that I could edit and delete another stream.",
+      "userId": "103785311793954228600",
+      "id": 4
+    }
+  ]
+}
